@@ -1,0 +1,27 @@
+{
+  "identifier" : "Postnap",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "postnap_pro",
+      "localizations" : [
+        {
+          "description" : "Unlocks Ideal-nap-length insight chart",
+          "displayName" : "Postnap Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.grogginesslog.pro",
+      "referenceName" : "Postnap Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
